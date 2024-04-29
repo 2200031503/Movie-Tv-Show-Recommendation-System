@@ -1,0 +1,79 @@
+.App {
+  text-align: center;
+}
+
+.svg {
+  fill: yellow !important;
+}
+
+.MuiCircularProgress-svg {
+  color: yellow !important;
+}
+
+.primary-svg {
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.smovie-grid {
+  padding-bottom: 3.2rem !important;
+  padding-top: 1rem !important;
+}
+.swiper-slide:hover {
+  cursor: pointer !important;
+}
+
+.swiper-button-next,
+.swiper-button-prev {
+  color: whitesmoke !important;
+  height: 0.1rem !important;
+}
+.MuiRating-root {
+  color: yellow !important;
+  font-size: inherit !important;
+}
+.select__menu-list::-webkit-scrollbar {
+  opacity: 0 !important;
+}
+.css-tnaca8-control,
+.css-1v70twq-control {
+  cursor: text !important;
+  margin-top: 0.8rem !important;
+}
+
+.css-q83q73-menu {
+  overflow: hidden !important;
+}
+.all {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+  text-transform: none !important;
+}
+.all-cont {
+  margin-bottom: 2rem;
+}
+.css-q83q73-menu {
+  margin-bottom: 2rem !important;
+}
+
+h1 {
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+  font-weight: 500 !important;
+}
+
+.break {
+  background: yellow;
+  padding: 0;
+  margin-top: -0.5rem;
+  height: 0.3rem;
+  margin-bottom: 2rem;
+  border-radius: 1px;
+}
+
+.header2 {
+  width: fit-content;
+}
+
+@media (min-width: 620px) {
+}
